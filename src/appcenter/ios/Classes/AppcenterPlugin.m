@@ -1,6 +1,6 @@
 #import "AppcenterPlugin.h"
 
-#import <AppCenter/AppCenter.h>
+@import AppCenter;
 
 @implementation AppcenterPlugin
 + (void)registerWithRegistrar:(NSObject<FlutterPluginRegistrar>*)registrar

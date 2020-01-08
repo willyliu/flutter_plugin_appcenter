@@ -1,6 +1,6 @@
 #import "AppcenterCrashesPlugin.h"
 
-#import <AppCenterCrashes/AppCenterCrashes.h>
+@import AppCenterCrashes;
 
 @implementation AppcenterCrashesPlugin
 

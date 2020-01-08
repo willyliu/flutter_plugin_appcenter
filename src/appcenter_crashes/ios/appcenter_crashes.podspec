@@ -16,7 +16,7 @@ A new flutter plugin project.
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   s.dependency 'AppCenter/Crashes'
-  s.platform = :ios, '8.0'
+  s.platform = :ios, '9.0'
   s.static_framework = true
   
   s.pod_target_xcconfig = {
