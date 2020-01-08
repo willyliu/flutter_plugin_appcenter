@@ -1,5 +1,5 @@
 PODS:
-  - appcenter (0.0.1):
+  - appcenter (0.0.2):
     - AppCenter
     - Flutter
   - AppCenter (1.2.0):
@@ -40,11 +40,11 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AppCenter: d0b68b2a7a87ac0aed78e66f36d87fd321d0a29c
-  appcenter: d85aaaf534125cf92375577f086ca0925c817d1d
-  appcenter_analytics: 134239ec65a6097fee5f0407e24423f583bd5942
-  appcenter_crashes: bfde7d247f431a7bbe6b038709261f0432c4b2a6
+  appcenter: caf61af06e3688e7d455681236425d7efa7a24ee
+  appcenter_analytics: 21bb40ff5796d62c2a6fcc7477bf076c637a64c4
+  appcenter_crashes: 72f88c498144893bb98aca11846d03ce3676c199
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
 
 PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
 
-COCOAPODS: 1.8.3
+COCOAPODS: 1.8.4
